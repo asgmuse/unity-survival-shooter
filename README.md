@@ -1,6 +1,5 @@
-![](https://i0.wp.com/www.noobpaint.com/wp-content/uploads/2016/07/db4d3087-b820-42e1-a105-5a1debb64e4d.jpg)
-
 # Survival Shooter — NO AUDIO
+![Unity Survival Shooter Banner Image](https://i0.wp.com/www.noobpaint.com/wp-content/uploads/2016/07/db4d3087-b820-42e1-a105-5a1debb64e4d.jpg)
 A 3D survival shooter game (based on Unity's official tutorial) with **all audio removed**.
 
 The game features a player fighting waves of enemies (ZomBear, ZomBunny, Hellephant) with raycast-based shooting, health management, and scoring. Everything works — it's just silent.
