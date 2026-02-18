@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{19e05678-9af5-4046-831a-31e3af52a2e8}">
+		<property name="assetPath">
+			<value>HAMSTER HOUSE LEVEL 1 MUSIC_V2-01.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>48.849583333333335</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bda8ada4-f779-40de-8c09-801646b55c9e}</destination>
+		</relationship>
+	</object>
+</objects>
